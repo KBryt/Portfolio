@@ -1,4 +1,4 @@
 # Portfolio
 
 
-https://kbryt.github.io/portfolio/
+Know about me [link](https://kbryt.github.io/portfolio/)
